@@ -1,5 +1,5 @@
 // src/services/ratesApi.js
-const API_BASE = process.env.REACT_APP_API_URL || 'http://localhost:4001';
+const API_BASE = process.env.REACT_APP_API_URL || 'https://ebkthangamaligai.onrender.com';
 
 export async function fetchRates() {
   const res = await fetch(`${API_BASE}/api/rates`);

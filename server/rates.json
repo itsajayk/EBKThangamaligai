@@ -1,0 +1,31 @@
+{
+  "visible": true,
+  "message": "Today's Rates",
+  "rates": [
+    {
+      "label": "Gold 22K (1g)",
+      "value": "11916"
+    },
+    {
+      "label": "Gold 22K (8g)",
+      "value": "95333"
+    },
+    {
+      "label": "Gold 24K (1g)",
+      "value": "13000"
+    },
+    {
+      "label": "Gold 24K (8g)",
+      "value": "104000"
+    },
+    {
+      "label": "Silver (1g)",
+      "value": "235"
+    },
+    {
+      "label": "Silver (1kg)",
+      "value": "235000"
+    }
+  ],
+  "updatedAt": "2026-01-04T07:54:32.486Z"
+}
